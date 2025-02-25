@@ -1,5 +1,5 @@
 # say-lar
-1xxx36
+1xxx
 2xxx
 3xxx
 4xxx
@@ -9,26 +9,26 @@
 8xxx
 9xxx
 10xx
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
+11xx
+12xx
+13xx
+14xx
+15xx
+16xx
+17xx
+18xx
+19xx
+20xx
+21xx
+22xx
+23xx
+24xx
+25xx
+26xx
+27xx
+28xx
+29xx
+30xx
 31
 32
 33
@@ -47,3 +47,6 @@
 46
 47
 48
+49
+50 xxxx Yukarı yandan devam et
+Yukarı yandan devam et
