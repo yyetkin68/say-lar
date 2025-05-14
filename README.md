@@ -33,20 +33,19 @@
 32xx82xxx131
 33xx83xxx132
 34xx84xxx133
-35xx85xxx
-36xx86xxx
-37xx87xxx
-38xx88xxx
-39xx89xxx
-40xx90xxx
-41xx91xxx
-42xx92xxx
-43xx93xxx
-44xx94xxx
-45xx95xxx
-46xx96xxx
-47xx97xxx
-48xx98xxx
-49xx99xxx
-50 xxxx Yukarı yandan devam et
-Yukarı yandan devam et
+35xx85xxx134
+36xx86xxx135
+37xx87xxx136
+38xx88xxx137
+39xx89xxx138
+40xx90xxx139
+41xx91xxx140
+42xx92xxx141
+43xx93xxx142
+44xx94xxx143
+45xx95xxx144
+46xx96xxx145
+47xx97xxx146
+48xx98xxx147
+49xx99xxx148
+50xx--xxx149
